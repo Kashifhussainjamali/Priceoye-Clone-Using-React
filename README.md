@@ -1,8 +1,9 @@
-# React + Vite
+# Discerption
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+The PriceOye website clone, built using React, replicates the user-friendly interface and functionality of the original site, offering a seamless browsing experience. It features 
+dynamic content rendering, responsive design, and efficient state management for smooth performance. This project showcases advanced React skills in developing a comprehensive 
+e-commerce platform clone.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+https://github.com/user-attachments/assets/114c6d50-b92e-42fb-b78a-19a3aaed3bb5
+
