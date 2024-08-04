@@ -1,0 +1,26 @@
+.htext1{
+    margin-top: 50px;
+    margin-left: 600px;
+    color: rgb(58, 58, 58);
+}
+.ptext1{
+    color: rgb(58, 58, 58);
+    font-size: 15px;
+    margin-left: 550px;
+}
+.min{
+    display: flex;
+    margin-left: 35px;
+}
+.ul{
+    display: flex;
+    list-style: none;
+    margin-left: 15px;
+    padding: 0;
+}
+.li1{
+    margin-right: 10px;
+}
+.li11{
+    padding-bottom: 0px;
+}

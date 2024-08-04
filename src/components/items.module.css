@@ -1,0 +1,13 @@
+.image{
+    height: 50px;
+    
+}
+.text{
+    font-size: 13px;
+    color: rgb(46, 46, 46);
+    margin-top: 5px;
+}
+.main{
+    text-align: center;
+    margin-left: 80px;
+}

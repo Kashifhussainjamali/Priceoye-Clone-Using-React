@@ -1,0 +1,42 @@
+.erbudimg{
+    height: 120px;
+    margin-top: 30px;
+    margin-left: 65px;
+    background-color: white;
+}
+.productname{
+    font-size: 14px;
+    font-weight: 500;
+    color: rgb(68, 68, 68);
+    margin-top: 10px;
+    margin-left: 20px;
+}
+.productprice{
+    margin-left: 20px;
+}
+.ul1{
+    display: flex;
+    list-style: none;
+    margin-left: 20px;
+    padding: 0;
+
+}
+.discount{
+    text-decoration: line-through;
+    text-decoration-color: red;
+    color: rgb(100, 100, 100);
+    font-size: 14px;
+
+}
+
+.dis{
+    color: rgb(67, 235, 67);
+    margin-left: 120px;
+    font-size: 13px;
+    border-radius: 5px;
+    background-color: rgb(241, 241, 241);
+    width: 60px;
+    text-align: center;
+    font-weight:500;
+    margin-bottom: 10px;
+}

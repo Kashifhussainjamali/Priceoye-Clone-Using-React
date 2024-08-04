@@ -1,0 +1,14 @@
+.htext{
+    margin-top: 380px;
+    margin-left: 500px;
+    color: rgb(58, 58, 58);
+}
+.ptext{
+    color: rgb(58, 58, 58);
+    font-size: 15px;
+    margin-left: 450px;
+}
+.main{
+    display: flex;
+    margin-left: 70px;
+}

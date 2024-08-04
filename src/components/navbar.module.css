@@ -1,0 +1,45 @@
+.nabvarmain{
+    list-style: none;
+    display: flex;
+    background-color: #48afff;
+    padding: 13px;
+}
+.inputall{
+    background-color: white;
+    border-radius: 5px;
+    padding: 10px;
+    width: 400px;
+    margin-left: 230px;
+
+}
+.input{
+    border: none;
+
+
+}
+.mike{
+    margin-left: 160px;
+}
+.login{
+    background-color: white;
+    color: #48afff;
+    padding: 5px;
+    border: none;
+    border-radius: 5px;
+    height: 40px;
+    width: 100px;
+    margin-left: 250px;
+    margin-top: 3px;
+}
+.rigester{
+    background-color: #48afff;
+    padding: 5px;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    height: 40px;
+    width: 100px;
+    margin-top: 3px;
+    border: 1px solid white;
+    margin-left: 10px;
+}

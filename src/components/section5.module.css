@@ -1,0 +1,16 @@
+.shop{
+    margin-left: 40px;
+    margin-top: 40px;
+    color: rgb(71, 71, 71);
+    margin-bottom: 40px;
+}
+.ul1{
+    display: flex;
+    list-style: none;
+}
+.img{
+    border-radius: 10px;
+}
+.li{
+    margin-left: 20px;
+}
